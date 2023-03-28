@@ -1,1 +1,2 @@
 hello,GIT7!
+hello, git rebase!
